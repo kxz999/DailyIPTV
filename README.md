@@ -1,22 +1,22 @@
 ## 📡 直播源地址
 
-最后更新: 2026-01-25 02:17:32
+最后更新: 2026-01-26 02:17:02
 
 ### ✅ 已验证列表
 - **完整列表**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 864 个
-- 有效性: 45.6%
+- 有效频道: 851 个
+- 有效性: 44.9%
 
 ### 📺 分类频道
 - **央视**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/cctv.m3u) (54个)
-- **卫视**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/satellite.m3u) (155个)
-- **地方台**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/local.m3u) (170个)
+- **卫视**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/satellite.m3u) (154个)
+- **地方台**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/local.m3u) (164个)
 - **国际**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/international.m3u) (0个)
 
 ### 📊 统计信息
-- 总频道: 1893 个
-- 验证耗时: 342.16 秒
-- 更新时间: 2026-01-25T02:17:32.212185
+- 总频道: 1896 个
+- 验证耗时: 366.83 秒
+- 更新时间: 2026-01-26T02:17:02.705427
 
 ---
 
