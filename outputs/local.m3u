@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-04 03:44:14 UTC
-# Updated: 2026-09-04 03:44:14
+# Generated: 2026-09-05 03:44:12 UTC
+# Updated: 2026-09-05 03:44:12
 # Title: local频道
-# Total Channels: 48
+# Total Channels: 49
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市4K.png" group-title="4K频道",南国都市4K
@@ -24,14 +24,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="韩国EBS少儿" tvg-name="韩国EBS少儿" tvg-logo="https://live.fanmingming.cn/tv/韩国EBS少儿.png" group-title="动画频道",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/象山新闻综合.png" group-title="☘️浙江频道",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 tvg-name="文成新闻综合" tvg-logo="https://live.fanmingming.cn/tv/文成新闻综合.png" group-title="☘️浙江频道",文成新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://live.fanmingming.cn/tv/云和新闻综合.png" group-title="☘️浙江频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/象山新闻综合.png" group-title="☘️浙江频道",象山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 group-title="☘️四川频道", 龙泉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="☘️四川频道",广元公共
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 #EXTINF:-1 group-title="☘️四川频道",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://live.fanmingming.cn/tv/雅安新闻综合.png" group-title="☘️四川频道",雅安新闻综合
@@ -42,10 +44,10 @@ http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
 http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.cn/tv/辽宁体育.png" group-title="☘️辽宁频道",辽宁体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
-http://120.76.248.139/live/bfgd/4200000077.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.cn/tv/朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
+http://120.76.248.139/live/bfgd/4200000077.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
 http://120.76.248.139/live/bfgd/4200000481.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="☘️辽宁频道",辽宁教育青少
@@ -80,10 +82,10 @@ http://112.46.105.20:8009/hls/28/index.m3u8
 http://112.46.105.20:8009/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://live.fanmingming.cn/tv/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
-http://8.138.7.223/tv/fjtv1.php?id=fjxw
 #EXTINF:-1 tvg-name="福建乡村振兴公共" tvg-logo="https://live.fanmingming.cn/tv/福建乡村振兴公共.png" group-title="☘️福建频道",福建乡村振兴公共
 http://8.138.7.223/tv/fjtv1.php?id=fjxc
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
+http://8.138.7.223/tv/fjtv1.php?id=fjxw
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.cn/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
 http://8.138.7.223/tv/fjtv1.php?id=fjse
 #EXTINF:-1 tvg-name="福州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/福州新闻综合.png" group-title="☘️福建频道",福州新闻综合

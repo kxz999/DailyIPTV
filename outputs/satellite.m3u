@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-04 03:44:14 UTC
-# Updated: 2026-09-04 03:44:14
+# Generated: 2026-09-05 03:44:12 UTC
+# Updated: 2026-09-05 03:44:12
 # Title: satellite频道
-# Total Channels: 50
+# Total Channels: 51
 # For personal testing only.
 
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影视.png" group-title="浙江频道",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="浙江频道",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="浙江频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
@@ -59,13 +59,13 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png" group-title="港澳代理",凤凰香港
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB Plus
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB Plus
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳代理",TVB星河
-http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB Plus
+http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳代理",TVB星河
 http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳代理",TVB星河
+http://r.jdshipin.com/sXuuD
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="港澳代理",海峡卫视
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
@@ -84,6 +84,8 @@ http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 1080P
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台频道",TVB明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台频道",TVBS新闻台
