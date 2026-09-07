@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-06 03:45:51 UTC
-# Updated: 2026-09-06 03:45:51
+# Generated: 2026-09-07 03:45:27 UTC
+# Updated: 2026-09-07 03:45:27
 # Title: local频道
 # Total Channels: 49
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市4K.png" group-title="4K频道",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/劲爆体育.png" group-title="咪咕央视",劲爆体育
-http://t.061899.xyz/tl/tl.php?id=jbty
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育卫视.png" group-title="卫视频道",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/无线新闻.png" group-title="港澳代理",无线新闻
@@ -28,24 +26,26 @@ http://cdn6.163189.xyz/163189/amty
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="文成新闻综合" tvg-logo="https://live.fanmingming.cn/tv/文成新闻综合.png" group-title="☘️浙江频道",文成新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://live.fanmingming.cn/tv/云和新闻综合.png" group-title="☘️浙江频道",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/象山新闻综合.png" group-title="☘️浙江频道",象山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://live.fanmingming.cn/tv/云和新闻综合.png" group-title="☘️浙江频道",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 group-title="☘️四川频道", 龙泉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 group-title="☘️四川频道",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 group-title="☘️四川频道",广元公共
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://live.fanmingming.cn/tv/雅安新闻综合.png" group-title="☘️四川频道",雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
 http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.cn/tv/朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
 http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.cn/tv/辽宁体育.png" group-title="☘️辽宁频道",辽宁体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.cn/tv/朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
-http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
 http://120.76.248.139/live/bfgd/4200000077.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="☘️辽宁频道",辽宁公共
@@ -62,10 +62,10 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/guangdong/Guangzhou6.png" group-title="☘️广东频道",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.cn/tv/河源公共.png" group-title="☘️广东频道",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.cn/tv/东莞新闻综合.png" group-title="☘️广东频道",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.cn/tv/河源公共.png" group-title="☘️广东频道",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="☘️江苏频道",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="邯郸公共频道" tvg-logo="https://live.fanmingming.cn/tv/邯郸公共频道.png" group-title="☘️河北频道",邯郸公共频道
@@ -82,18 +82,18 @@ http://112.46.105.20:8009/hls/28/index.m3u8
 http://112.46.105.20:8009/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://live.fanmingming.cn/tv/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
-http://8.138.7.223/tv/fjtv1.php?id=fjxw
 #EXTINF:-1 tvg-name="福建乡村振兴公共" tvg-logo="https://live.fanmingming.cn/tv/福建乡村振兴公共.png" group-title="☘️福建频道",福建乡村振兴公共
 http://8.138.7.223/tv/fjtv1.php?id=fjxc
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
+http://8.138.7.223/tv/fjtv1.php?id=fjxw
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.cn/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
 http://8.138.7.223/tv/fjtv1.php?id=fjse
 #EXTINF:-1 tvg-name="福州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/福州新闻综合.png" group-title="☘️福建频道",福州新闻综合
 http://8.138.7.223/tv/fjtv1.php?id=fz1
-#EXTINF:-1 tvg-name="漳州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/漳州新闻综合.png" group-title="☘️福建频道",漳州新闻综合
-http://8.138.7.223/tv/fjtv1.php?id=zz1
 #EXTINF:-1 tvg-name="泉州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/泉州新闻综合.png" group-title="☘️福建频道",泉州新闻综合
 http://8.138.7.223/tv/fjtv1.php?id=qz1
+#EXTINF:-1 tvg-name="漳州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/漳州新闻综合.png" group-title="☘️福建频道",漳州新闻综合
+http://8.138.7.223/tv/fjtv1.php?id=zz1
 #EXTINF:-1 tvg-name="宁德新闻综合" tvg-logo="https://live.fanmingming.cn/tv/宁德新闻综合.png" group-title="☘️福建频道",宁德新闻综合
 http://8.138.7.223/tv/fjtv1.php?id=nd1
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
