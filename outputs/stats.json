@@ -1,18 +1,18 @@
 {
-  "update_time": "2026-09-12T03:48:53.214839",
-  "duration_seconds": 49.24,
-  "validation_seconds": 42.4,
+  "update_time": "2026-09-13T04:02:34.099817",
+  "duration_seconds": 377.64,
+  "validation_seconds": 373.66,
   "sources_attempted": 6,
-  "sources_successful": 2,
-  "total_channels": 140,
-  "quality_channels": 140,
-  "valid_channels": 8,
-  "validity_ratio": 0.05714285714285714,
+  "sources_successful": 3,
+  "total_channels": 1318,
+  "quality_channels": 1318,
+  "valid_channels": 265,
+  "validity_ratio": 0.20106221547799696,
   "categories": {
-    "cctv": 0,
-    "satellite": 7,
-    "local": 0,
+    "cctv": 1,
+    "satellite": 52,
+    "local": 51,
     "international": 0,
-    "other": 1
+    "other": 161
   }
 }
