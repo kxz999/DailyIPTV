@@ -1,11 +1,11 @@
 ## 📡 直播源地址
 
-最后更新: 2026-10-11 04:56:19
+最后更新: 2026-10-12 05:11:11
 
 ### ✅ 已验证列表
 - **完整列表**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 272 个
-- 有效性: 20.6%
+- 有效频道: 266 个
+- 有效性: 20.2%
 
 ### 📺 分类频道
 - **央视**: [https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/kxz999/DailyIPTV/main/outputs/cctv.m3u) (0个)
@@ -15,8 +15,8 @@
 
 ### 📊 统计信息
 - 总频道: 1318 个
-- 验证耗时: 384.75 秒
-- 更新时间: 2026-10-11T04:56:19.221967
+- 验证耗时: 378.1 秒
+- 更新时间: 2026-10-12T05:11:11.077518
 
 ---
 
